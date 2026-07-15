@@ -1,0 +1,3 @@
+../Core/Src/controller.c:7:9:msb_to_lsb	24	static
+../Core/Src/controller.c:24:6:CONTROLLER_init	16	static
+../Core/Src/controller.c:50:6:CONTROLLER_update	40	static

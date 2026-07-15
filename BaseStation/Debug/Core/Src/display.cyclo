@@ -1,0 +1,5 @@
+../Core/Src/display.c:9:6:DISPLAY_init	1
+../Core/Src/display.c:15:6:DISPLAY_background	1
+../Core/Src/display.c:29:6:DISPLAY_change_mode	4
+../Core/Src/display.c:47:6:DISPLAY_mode	1
+../Core/Src/display.c:51:6:DISPLAY_tilt	4
