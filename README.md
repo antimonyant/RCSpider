@@ -1,5 +1,5 @@
 This repo houses a project a team and I designed for the University of Michigan Embedded Systems EXPO in 2024.<br>
-[Check out the poster! (PDF)](poster.pdf)<br>
+[Check out the poster! (PDF)](Poster.pdf)<br>
 Many remote controlled vehicles are cars with limited applicable environments and unsuited to rough terrain. Therefore we believe that there is room to explore various modes of movement which can advance the understanding of the capabilities and limitations of robot navigation in difficult terrains. Moreover, robots with novel mobility schemes are visually interesting and can inspire kids to learn more about robotics.<br>
 With these goals, our project became a spider-like robot that is capable of basic movement such as turning around, walking forwards, backwards, etc. The robot is capable of dynamically changing its style of walk (for example switching from tripod walk, which is lifting three legs at a time, to ripple walk, which is lifting two legs at a time).<br>
 The legs of the robot are controlled by servo motors and their movements use custom walking algorithms that manipulate each joint within each leg appropriately.<br>
