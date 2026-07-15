@@ -1,0 +1,2 @@
+../Core/Src/I2C.c:3:6:writeI2CByte	1
+../Core/Src/I2C.c:10:9:readI2CByte	1

@@ -1,0 +1,4 @@
+../Core/Src/PCA9685.c:3:6:reset	16	static
+../Core/Src/PCA9685.c:9:6:setPWMFreq	24	static
+../Core/Src/PCA9685.c:32:6:writePWMDutyCycle	40	static
+../Core/Src/PCA9685.c:54:6:setServoAngle	24	static

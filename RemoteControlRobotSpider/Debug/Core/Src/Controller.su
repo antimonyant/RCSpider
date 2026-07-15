@@ -1,0 +1,7 @@
+../Core/Src/Controller.c:19:6:legsToFloor	8	static
+../Core/Src/Controller.c:35:6:init	16	static
+../Core/Src/Controller.c:51:6:stop	8	static
+../Core/Src/Controller.c:58:6:controllerInput	24	static
+../Core/Src/Controller.c:107:6:gaitChange	16	static
+../Core/Src/Controller.c:118:6:walk	16	static
+../Core/Src/Controller.c:136:6:turn	16	static
